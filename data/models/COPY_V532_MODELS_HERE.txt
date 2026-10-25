@@ -1,0 +1,10 @@
+Optional: copy your existing trained model files here before first V5.3.5 launch:
+
+  online_state_v532.joblib
+  safe_window_v532.joblib
+
+Prefer copies from V5.3.2/V5.3.3 if available, because those predate the
+fullscreen third-lane false-crash bug identified in V5.3.4. V5.3.4 files remain
+compatible if older copies are unavailable.
+
+Do not copy .tmp files.

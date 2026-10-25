@@ -1,0 +1,82 @@
+[
+  {
+    "test": "test_v435_slow_geometry.py",
+    "passed": true
+  },
+  {
+    "test": "test_v435_slow_profile.py",
+    "passed": true
+  },
+  {
+    "test": "test_v5510_landing_evidence.py",
+    "passed": true
+  },
+  {
+    "test": "test_v5511_crossing_forecast.py",
+    "passed": true
+  },
+  {
+    "test": "test_v5512_roi_recovery.py",
+    "passed": true
+  },
+  {
+    "test": "test_v5513_trajectory_continuity.py",
+    "passed": true
+  },
+  {
+    "test": "test_v5514_observation_timing.py",
+    "passed": true
+  },
+  {
+    "test": "test_v5515_input_and_unresolved.py",
+    "passed": true
+  },
+  {
+    "test": "test_v5515_input_tick.py",
+    "passed": true
+  },
+  {
+    "test": "test_v5516_missing_feedback.py",
+    "passed": true
+  },
+  {
+    "test": "test_v551_threat_tail_guard.py",
+    "passed": true
+  },
+  {
+    "test": "test_v552_degraded_headroom_progress_handoff.py",
+    "passed": true
+  },
+  {
+    "test": "test_v553_gap_prior_handoff.py",
+    "passed": true
+  },
+  {
+    "test": "test_v554_final_upstream.py",
+    "passed": true
+  },
+  {
+    "test": "test_v555_display_reset.py",
+    "passed": true
+  },
+  {
+    "test": "test_v555_qt_expiry.py",
+    "passed": true
+  },
+  {
+    "test": "test_v556_full_tick.py",
+    "passed": true
+  },
+  {
+    "test": "test_v557_tracking_loss.py",
+    "passed": true
+  },
+  {
+    "test": "test_v558_missed_rearm.py",
+    "passed": true
+  },
+  {
+    "test": "test_v559_slow_learning.py",
+    "passed": true
+  }
+]

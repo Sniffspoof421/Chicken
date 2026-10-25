@@ -1,0 +1,121 @@
+[
+  {
+    "dt": 0.6639878749847412,
+    "state": {
+      "scene_pan_active": false,
+      "raw_scene_pan_ignored": false,
+      "game_progress_scroll_active": false,
+      "game_progress_scroll_settling": false,
+      "fullscreen_reframe_active": false
+    },
+    "chicken": {
+      "cx": 632.6742811014828,
+      "cy": 731.7345142432496,
+      "detected": true
+    }
+  },
+  {
+    "dt": 1.0657641887664795,
+    "state": {
+      "scene_pan_active": true,
+      "raw_scene_pan_ignored": true,
+      "game_progress_scroll_active": false,
+      "game_progress_scroll_settling": false,
+      "fullscreen_reframe_active": false
+    },
+    "chicken": null
+  },
+  {
+    "dt": 1.3747079372406006,
+    "state": {
+      "scene_pan_active": false,
+      "raw_scene_pan_ignored": false,
+      "game_progress_scroll_active": false,
+      "game_progress_scroll_settling": false,
+      "fullscreen_reframe_active": false
+    },
+    "chicken": {
+      "cx": 637.3563197686549,
+      "cy": 764.3461577073111,
+      "detected": true
+    }
+  },
+  {
+    "dt": 1.6700007915496826,
+    "state": {
+      "scene_pan_active": true,
+      "raw_scene_pan_ignored": true,
+      "game_progress_scroll_active": false,
+      "game_progress_scroll_settling": false,
+      "fullscreen_reframe_active": false
+    },
+    "chicken": null
+  },
+  {
+    "dt": 1.9207401275634766,
+    "state": {
+      "scene_pan_active": true,
+      "raw_scene_pan_ignored": true,
+      "game_progress_scroll_active": false,
+      "game_progress_scroll_settling": false,
+      "fullscreen_reframe_active": false
+    },
+    "chicken": null
+  },
+  {
+    "dt": 2.2678780555725098,
+    "state": {
+      "scene_pan_active": false,
+      "raw_scene_pan_ignored": false,
+      "game_progress_scroll_active": false,
+      "game_progress_scroll_settling": false,
+      "fullscreen_reframe_active": false
+    },
+    "chicken": null
+  },
+  {
+    "dt": 2.5309512615203857,
+    "state": {
+      "scene_pan_active": false,
+      "raw_scene_pan_ignored": false,
+      "game_progress_scroll_active": false,
+      "game_progress_scroll_settling": false,
+      "fullscreen_reframe_active": false
+    },
+    "chicken": {
+      "cx": 191.56466666666668,
+      "cy": 731.0457333333334,
+      "detected": true
+    }
+  },
+  {
+    "dt": 2.9466865062713623,
+    "state": {
+      "scene_pan_active": false,
+      "raw_scene_pan_ignored": false,
+      "game_progress_scroll_active": false,
+      "game_progress_scroll_settling": false,
+      "fullscreen_reframe_active": false
+    },
+    "chicken": {
+      "cx": 192.45008453333332,
+      "cy": 732.4575692266667,
+      "detected": true
+    }
+  },
+  {
+    "dt": 3.2400593757629395,
+    "state": {
+      "scene_pan_active": false,
+      "raw_scene_pan_ignored": false,
+      "game_progress_scroll_active": false,
+      "game_progress_scroll_settling": false,
+      "fullscreen_reframe_active": false
+    },
+    "chicken": {
+      "cx": 189.27003220661334,
+      "cy": 729.044606329664,
+      "detected": true
+    }
+  }
+]

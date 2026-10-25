@@ -1,0 +1,6 @@
+mss>=10.0.0
+opencv-python>=4.10.0
+numpy>=1.26.0
+PySide6>=6.7.0
+scikit-learn>=1.5.0
+joblib>=1.4.0

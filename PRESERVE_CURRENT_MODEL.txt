@@ -1,0 +1,17 @@
+V5.3.5 keeps the V5.3.2 learning/model schema and all V5.3.4 live-speed logic.
+
+Preferred model source:
+  - use your trained V5.3.2/V5.3.3 files if you still have them, because they
+    predate the V5.3.4 run where normal third-lane reframes were sometimes
+    learned as crashes;
+  - if those are unavailable, the current V5.3.4 files are still compatible.
+
+Copy into this build's data\models folder:
+  online_state_v532.joblib
+  safe_window_v532.joblib
+
+Do not copy .tmp files.
+
+The filenames intentionally remain v532 because V5.3.5 fixes screen-coordinate
+and attribution logic, not the ML feature schema. Current-session SafeWindow
+adaptation still starts fresh each launch.
